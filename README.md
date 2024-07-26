@@ -24,4 +24,4 @@ Hi! I'm Eric. I'm a CS student at CSUS currently towards my B.S.<br>🔭 I’m c
 ---
 [![](https://visitcount.itsvg.in/api?id=PeanutButterRat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Page was created via GPRM ( https://gprm.itsvg.in )
+Page was created via [GPRM](https://gprm.itsvg.in)
